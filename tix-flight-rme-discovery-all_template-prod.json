@@ -1,0 +1,2971 @@
+[
+  {
+    "code": "DISCOUNTED_PRICE",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null,
+        "benefit": null
+      },
+      "headerCard": {
+        "header": null,
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": null,
+          "linkText": null,
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#58627A",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STRIKE_THROUGH"
+            ]
+          },
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "DISCOUNTED_PRICE_LOYALTY_LV1",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Basic Blue Benefit",
+          "ID": "Benefit Basic Blue"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Basic Blue Benefit",
+            "ID": "Benefit Basic Blue"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#58627A",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STRIKE_THROUGH"
+            ]
+          },
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "DISCOUNTED_PRICE_LOYALTY_LV2",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Silver Benefit",
+          "ID": "Benefit Elite Silver"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Silver Benefit",
+            "ID": "Benefit Elite Silver"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#58627A",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STRIKE_THROUGH"
+            ]
+          },
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "DISCOUNTED_PRICE_LOYALTY_LV3",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Gold Benefit",
+          "ID": "Benefit Elite Gold"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Gold Benefit",
+            "ID": "Benefit Elite Gold"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#58627A",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STRIKE_THROUGH"
+            ]
+          },
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "DISCOUNTED_PRICE_LOYALTY_LV4",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Platinum Benefit",
+          "ID": "Benefit Elite Platinum"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Platinum Benefit",
+            "ID": "Benefit Elite Platinum"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#58627A",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STRIKE_THROUGH"
+            ]
+          },
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FEATURED_FLIGHT",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null,
+        "benefit": null
+      },
+      "headerCard": {
+        "header": null,
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": null,
+          "linkText": null,
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FEATURED_FLIGHT_LOYALTY_LV1",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Basic Blue Benefit",
+          "ID": "Benefit Basic Blue"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Basic Blue Benefit",
+            "ID": "Benefit Basic Blue"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FEATURED_FLIGHT_LOYALTY_LV2",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Silver Benefit",
+          "ID": "Benefit Elite Silver"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Silver Benefit",
+            "ID": "Benefit Elite Silver"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FEATURED_FLIGHT_LOYALTY_LV3",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Gold Benefit",
+          "ID": "Benefit Elite Gold"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Gold Benefit",
+            "ID": "Benefit Elite Gold"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FEATURED_FLIGHT_LOYALTY_LV4",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Platinum Benefit",
+          "ID": "Benefit Elite Platinum"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Platinum Benefit",
+            "ID": "Benefit Elite Platinum"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FINAL_PRICE",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null,
+        "benefit": null
+      },
+      "headerCard": {
+        "header": null,
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": null,
+          "linkText": null,
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FINAL_PRICE_LOYALTY_LV1",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Basic Blue Benefit",
+          "ID": "Benefit Basic Blue"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Basic Blue Benefit",
+            "ID": "Benefit Basic Blue"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FINAL_PRICE_LOYALTY_LV2",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Silver Benefit",
+          "ID": "Benefit Elite Silver"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Silver Benefit",
+            "ID": "Benefit Elite Silver"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FINAL_PRICE_LOYALTY_LV3",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Gold Benefit",
+          "ID": "Benefit Elite Gold"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Gold Benefit",
+            "ID": "Benefit Elite Gold"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "FINAL_PRICE_LOYALTY_LV4",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        }
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Platinum Benefit",
+          "ID": "Benefit Elite Platinum"
+        },
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Platinum Benefit",
+            "ID": "Benefit Elite Platinum"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "benefit": {
+        "backgroundColor": null,
+        "borderColor": null,
+        "icon": null,
+        "text": null
+      }
+    }
+  },
+  {
+    "code": "LOYALTY_CAMPAIGN_LOYALTY_LV1",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Basic Blue discount",
+          "ID": "Diskon Basic Blue"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Basic Blue Benefit",
+          "ID": "Benefit Basic Blue"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Basic Blue Benefit",
+            "ID": "Benefit Basic Blue"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "CUSTOM_TEXT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": null,
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": {
+                "EN": "Discount up to 5%",
+                "ID": "Diskon hingga 5%"
+              },
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Basic Blue discount",
+          "ID": "Diskon Basic Blue"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-gk.tiket.photos/transform/USER-01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/08/12/f88c49fc-ec15-4930-b62f-c31673c30263-1597219433893-da5dbf9578c033c274b23b459a08e960.png",
+        "text": {
+          "EN": "You save %{TOTAL_DISCOUNT} as a Basic Blue Member",
+          "ID": "Kamu hemat %{TOTAL_DISCOUNT} sebagai anggota Basic Blue"
+        }
+      }
+    }
+  },
+  {
+    "code": "LOYALTY_CAMPAIGN_LOYALTY_LV2",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Silver discount",
+          "ID": "Diskon Elite Silver"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Silver Benefit",
+          "ID": "Benefit Elite Silver"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Silver Benefit",
+            "ID": "Benefit Elite Silver"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "CUSTOM_TEXT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": null,
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": {
+                "EN": "Discount up to 10%",
+                "ID": "Diskon hingga 10%"
+              },
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Silver discount",
+          "ID": "Diskon Elite Silver"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F5F6FA",
+        "borderColor": "#212121",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "text": {
+          "EN": "You save %{TOTAL_DISCOUNT} as an Elite Silver Member",
+          "ID": "Kamu hemat %{TOTAL_DISCOUNT} sebagai anggota Elite Silver"
+        }
+      }
+    }
+  },
+  {
+    "code": "LOYALTY_CAMPAIGN_LOYALTY_LV3",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Gold discount",
+          "ID": "Diskon Elite Gold"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Gold Benefit",
+          "ID": "Benefit Elite Gold"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "backgroundImage": "https://s-gk.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/08/15/c7b2743b-e9ff-4d08-a5f1-4701734ed4e7-1597463142489-1227ae98bd04358897c2dfb2d20579c5.png",
+        "modal": {
+          "header": {
+            "EN": "Elite Gold Benefit",
+            "ID": "Benefit Elite Gold"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "CUSTOM_TEXT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": null,
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": {
+                "EN": "Discount up to 20%",
+                "ID": "Diskon hingga 20%"
+              },
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Gold discount",
+          "ID": "Diskon Elite Gold"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "benefit": {
+        "backgroundColor": "#FCF7EB",
+        "borderColor": "#E2B43E",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "text": {
+          "EN": "You save %{TOTAL_DISCOUNT} as an Elite Gold Member.",
+          "ID": "Kamu hemat %{TOTAL_DISCOUNT} sebagai anggota Elite Gold."
+        }
+      }
+    }
+  },
+  {
+    "code": "LOYALTY_CAMPAIGN_LOYALTY_LV4",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": null,
+      "description": null,
+      "icon": null
+    },
+    "showLayoutHeader": false,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Platinum discount",
+          "ID": "Diskon Elite Platinum"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Platinum Benefit",
+          "ID": "Benefit Elite Platinum"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "backgroundImage": "https://s-gk.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/08/15/94be21db-3add-415f-8e83-2ebfae2a49b8-1597463162009-eac8871da9e46d7d08bba2a8268fc2b4.png",
+        "modal": {
+          "header": {
+            "EN": "Elite Platinum Benefit",
+            "ID": "Benefit Elite Platinum"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "CUSTOM_TEXT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": null,
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": {
+                "EN": "Discount up to 25%",
+                "ID": "Diskon hingga 25%"
+              },
+              "textPrefix": null,
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": null,
+          "position": null
+        }
+      },
+      "featured": false
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": null,
+        "discountText": {
+          "EN": "Elite Platinum discount",
+          "ID": "Diskon Elite Platinum"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F5F6FA",
+        "borderColor": "#212121",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "text": {
+          "EN": "You save %{TOTAL_DISCOUNT} as an Elite Platinum Member.",
+          "ID": "Kamu hemat %{TOTAL_DISCOUNT} sebagai anggota Elite Platinum."
+        }
+      }
+    }
+  },
+  {
+    "code": "SPECIAL_CAMPAIGN",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": {
+        "EN": "Harga Gledek",
+        "ID": "Harga Gledek"
+      },
+      "description": {
+        "EN": "Not final prices. See discounted fares in price details or booking form.",
+        "ID": "Bukan harga final. Lihat harga setelah diskon di detail harga atau form pemesanan."
+      },
+      "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/f2b368cb-ed85-4647-833a-ff2ebb18ee2f-1599187331730-4338e84f0865f8a0c34abaf448e60056.png"
+    },
+    "showLayoutHeader": true,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": false,
+    "search": {
+      "detail": {
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null,
+        "benefit": null
+      },
+      "headerCard": {
+        "header": null,
+        "description": null,
+        "icon": null,
+        "backgroundImage": null,
+        "modal": {
+          "header": null,
+          "linkText": null,
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": null,
+              "textPrefix": {
+                "EN": "Disc. - ",
+                "ID": "Disc. - "
+              },
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": null
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+        "text": {
+          "EN": "You get %{TOTAL_DISCOUNT} discount from OTW Promo.",
+          "ID": "Kamu dapat diskon sebesar %{TOTAL_DISCOUNT} dari Promo OTW."
+        }
+      }
+    }
+  },
+  {
+    "code": "SPECIAL_CAMPAIGN_LOYALTY_LV1",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": {
+        "EN": "Harga Gledek",
+        "ID": "Harga Gledek"
+      },
+      "description": {
+        "EN": "Not final prices. See discounted fares in price details or booking form.",
+        "ID": "Bukan harga final. Lihat harga setelah diskon di detail harga atau form pemesanan."
+      },
+      "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/f2b368cb-ed85-4647-833a-ff2ebb18ee2f-1599187331730-4338e84f0865f8a0c34abaf448e60056.png"
+    },
+    "showLayoutHeader": true,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": true,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Basic Blue Benefit",
+          "ID": "Benefit Basic Blue"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Basic Blue Benefit",
+            "ID": "Benefit Basic Blue"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": null,
+              "textPrefix": {
+                "EN": "Disc. - ",
+                "ID": "Disc. - "
+              },
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Basic Blue Benefit",
+              "ID": "Benefit Basic Blue"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b468405d-0c68-4d28-9f6f-77af2a689432-1599187846359-da5dbf9578c033c274b23b459a08e960.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+        "text": {
+          "EN": "You get %{TOTAL_DISCOUNT} discount from OTW Promo.",
+          "ID": "Kamu dapat diskon sebesar %{TOTAL_DISCOUNT} dari Promo OTW."
+        }
+      }
+    }
+  },
+  {
+    "code": "SPECIAL_CAMPAIGN_LOYALTY_LV2",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": {
+        "EN": "Harga Gledek",
+        "ID": "Harga Gledek"
+      },
+      "description": {
+        "EN": "Not final prices. See discounted fares in price details or booking form.",
+        "ID": "Bukan harga final. Lihat harga setelah diskon di detail harga atau form pemesanan."
+      },
+      "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/f2b368cb-ed85-4647-833a-ff2ebb18ee2f-1599187331730-4338e84f0865f8a0c34abaf448e60056.png"
+    },
+    "showLayoutHeader": true,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": true,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Silver Benefit",
+          "ID": "Benefit Elite Silver"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+        "backgroundImage": null,
+        "modal": {
+          "header": {
+            "EN": "Elite Silver Benefit",
+            "ID": "Benefit Elite Silver"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": null,
+              "textPrefix": {
+                "EN": "Disc. - ",
+                "ID": "Disc. - "
+              },
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Silver Benefit",
+              "ID": "Benefit Elite Silver"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/b8c1ca87-9014-4a52-8f08-9c14c1d61884-1599188872508-c6839aa59f855c18db50bede9c355a24.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+        "text": {
+          "EN": "You get %{TOTAL_DISCOUNT} discount from OTW Promo.",
+          "ID": "Kamu dapat diskon sebesar %{TOTAL_DISCOUNT} dari Promo OTW."
+        }
+      }
+    }
+  },
+  {
+    "code": "SPECIAL_CAMPAIGN_LOYALTY_LV3",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": {
+        "EN": "Harga Gledek",
+        "ID": "Harga Gledek"
+      },
+      "description": {
+        "EN": "Not final prices. See discounted fares in price details or booking form.",
+        "ID": "Bukan harga final. Lihat harga setelah diskon di detail harga atau form pemesanan."
+      },
+      "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/f2b368cb-ed85-4647-833a-ff2ebb18ee2f-1599187331730-4338e84f0865f8a0c34abaf448e60056.png"
+    },
+    "showLayoutHeader": true,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": true,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Gold Benefit",
+          "ID": "Benefit Elite Gold"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+        "backgroundImage": "https://s-gk.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/08/15/c7b2743b-e9ff-4d08-a5f1-4701734ed4e7-1597463142489-1227ae98bd04358897c2dfb2d20579c5.png",
+        "modal": {
+          "header": {
+            "EN": "Elite Gold Benefit",
+            "ID": "Benefit Elite Gold"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": null,
+              "textPrefix": {
+                "EN": "Disc. - ",
+                "ID": "Disc. - "
+              },
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Gold Benefit",
+              "ID": "Benefit Elite Gold"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/7ffc630e-9959-467e-b958-f6bff5c9dbc3-1599187474938-169e80228d639f2403d4208d8b2c4fb6.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+        "text": {
+          "EN": "You get %{TOTAL_DISCOUNT} discount from OTW Promo.",
+          "ID": "Kamu dapat diskon sebesar %{TOTAL_DISCOUNT} dari Promo OTW."
+        }
+      }
+    }
+  },
+  {
+    "code": "SPECIAL_CAMPAIGN_LOYALTY_LV4",
+    "mainView": true,
+    "status": "ACTIVE",
+    "layoutHeader": {
+      "text": {
+        "EN": "Harga Gledek",
+        "ID": "Harga Gledek"
+      },
+      "description": {
+        "EN": "Not final prices. See discounted fares in price details or booking form.",
+        "ID": "Bukan harga final. Lihat harga setelah diskon di detail harga atau form pemesanan."
+      },
+      "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/f2b368cb-ed85-4647-833a-ff2ebb18ee2f-1599187331730-4338e84f0865f8a0c34abaf448e60056.png"
+    },
+    "showLayoutHeader": true,
+    "layoutDetail": {
+      "totalText": null
+    },
+    "showLayoutDetail": true,
+    "search": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "headerCard": {
+        "header": {
+          "EN": "Elite Platinum Benefit",
+          "ID": "Benefit Elite Platinum"
+        },
+        "description": {
+          "EN": "Get up to 5% discount, early access to promotions blabla",
+          "ID": "Dapatkan diskon hingga 5%"
+        },
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+        "backgroundImage": "https://s-gk.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/08/15/94be21db-3add-415f-8e83-2ebfae2a49b8-1597463162009-eac8871da9e46d7d08bba2a8268fc2b4.png",
+        "modal": {
+          "header": {
+            "EN": "Elite Platinum Benefit",
+            "ID": "Benefit Elite Platinum"
+          },
+          "linkText": {
+            "EN": "See benefits",
+            "ID": "Lihat benefit"
+          },
+          "content": null
+        }
+      },
+      "card": {
+        "prices": [
+          {
+            "type": "TOTAL_WITH_MARKUP_WITHOUT_DISCOUNT",
+            "color": "#0064D2",
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png",
+            "stamp": null,
+            "content": {
+              "text": null,
+              "textPrefix": null,
+              "textSuffix": {
+                "EN": "/pax",
+                "ID": "/pax"
+              }
+            },
+            "styles": []
+          },
+          {
+            "type": "DISCOUNT",
+            "color": "#0064D2",
+            "icon": null,
+            "stamp": {
+              "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+              "backgroundColor": "#F2F8FF"
+            },
+            "content": {
+              "text": null,
+              "textPrefix": {
+                "EN": "Disc. - ",
+                "ID": "Disc. - "
+              },
+              "textSuffix": null
+            },
+            "styles": [
+              "STAMPED"
+            ]
+          }
+        ],
+        "border": {
+          "color": "#0064D2",
+          "position": "LEFT"
+        }
+      },
+      "featured": true
+    },
+    "cart": {
+      "detail": {
+        "benefit": {
+          "header": {
+            "text": {
+              "EN": "Elite Platinum Benefit",
+              "ID": "Benefit Elite Platinum"
+            },
+            "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+          },
+          "footer": {
+            "text": {
+              "EN": "* Subject to availability",
+              "ID": "* Tergantung ketersediaan"
+            }
+          }
+        },
+        "totalText": {
+          "EN": "Harga Gledek",
+          "ID": "Harga Gledek"
+        },
+        "discountText": {
+          "EN": "Discount",
+          "ID": "Diskon"
+        },
+        "totalPriceIcon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/4e89731d-d4ed-4858-8565-603a9bc79a61-1599188915263-fe77655667e895582a5609ab25f52351.png"
+      },
+      "benefit": {
+        "backgroundColor": "#F2F8FF",
+        "borderColor": "#0064D2",
+        "icon": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit00gsmenlarge1/string/2020/09/04/a739a625-1e53-4048-96e1-056384f8a9de-1599187638488-55ae5a576d4874fba4b370d3eac1cbe5.png",
+        "text": {
+          "EN": "You get %{TOTAL_DISCOUNT} discount from OTW Promo.",
+          "ID": "Kamu dapat diskon sebesar %{TOTAL_DISCOUNT} dari Promo OTW."
+        }
+      }
+    }
+  }
+]
